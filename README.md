@@ -11,7 +11,7 @@ Crypto++   5.6.1'den 5.6.2'ye yükseltilmiş.<br>
 LZO        2.03'den 2.06'ya yükseltilmiş.<br>
 JPEG Lib   6b'den 9a'a yükseltilmiş.<br>
 
-# Game Source Eklenen Sistemler<br><br>
+# Game Source Eklenen Sistemler
 Bakım Modu Sistemi<br>
 Official Engelleme Sistemi<br>
 Official Satılmayanlar Eklenrisi<br>
@@ -25,7 +25,7 @@ Hızlı Ruh Taşı okuma eklentisi<br>
 Yeni Biyolog Sistemi<br><br>
 Boss Efekti eklendi<br>
 
-# Game Source Düzeltilen ve Kaldırılanlar<br>
+# Game Source Düzeltilen ve Kaldırılanlar
 
 Limit_time Kaldırıldı.<br>
 Metin2ServerCheck() Kaldırıldı.<br>
