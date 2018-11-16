@@ -1,0 +1,1 @@
+# Nora2-Bilgilendirme
