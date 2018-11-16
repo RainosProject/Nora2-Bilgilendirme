@@ -24,7 +24,8 @@ Sorunsuz Combat Zone
 Hızlı Ruh Taşı okuma eklentisi
 Yeni Biyolog Sistemi
 Boss Efekti eklendi
-Game Source
+
+# Game Source Düzeltilen ve Kaldırılanlar
 
 Limit_time Kaldırıldı.
 Metin2ServerCheck() Kaldırıldı.
