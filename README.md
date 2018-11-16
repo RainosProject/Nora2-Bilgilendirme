@@ -2,7 +2,7 @@
 
 Client Source
 
-DirectX    8'den 9'a yükseltilmiş.
+DirectX    8'den 9'a yükseltilmiş.<br>
 Python     2.2.15'den 2.7.6'ya yükseltilmiş.
 Granny     2.4.0.30'dan 2.9.12.0'a yükseltilmiş.
 Boost      1.43.0'dan 1.55.0'a yükseltilmiş.
