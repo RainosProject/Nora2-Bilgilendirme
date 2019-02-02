@@ -24,6 +24,7 @@ Sorunsuz Combat Zone<br>
 Hızlı Ruh Taşı okuma eklentisi<br>
 Yeni Biyolog Sistemi<br><br>
 Boss Efekti eklendi<br>
+Damage Skor Takip Ekranı Eklendi<br>
 
 # Game Source Düzeltilen ve Kaldırılanlar
 
@@ -97,3 +98,12 @@ Level sınırı ve exp ayarı 250'ye çıkartıldı.<br>
 Taş bugları düzeltildi.<br>
 Change_empire.sql yoktu eklendi.<br>
 Money_log.sql uyarı oluşturuyordu güncellendi.<br>
+
+# 02.02.2019 Güncellemesi
+
+Okçunun ok atarken ki animasyon sorunu çözüldü.<br>
+Yerden item ve yang toplama süresi kaldırıldı.<br>
+EterPack Optimizesi yapıldı.<br>
+17.5 Ninja Kamuflaj skili güncellemesi eklendi.<br>
+Simya ticareti ile ilgili sorunlar çözüldü.<br>
+Ata hızlı inip binme engellendi.<br>
